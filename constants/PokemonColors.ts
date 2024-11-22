@@ -1,0 +1,17 @@
+export enum PokemonColors {
+  "steel" = "steel",
+  "water" = "water",
+  "ice" = "ice",
+  "fire" = "fire",
+  "electric" = "electric",
+  "grass" = "grass",
+  "ground" = "ground",
+  "fairy" = "fairy",
+  "ghost" = "ghost",
+  "poison" = "poison",
+  "dragon" = "dragon",
+  "bug" = "bug",
+  "normal" = "normal",
+  "flying" = "flying",
+  "psychic" = "psychic",
+}
